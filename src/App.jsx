@@ -1,4 +1,4 @@
-import FinanceSummary from "./financeSummary";
+import FinanceSummary from "./FinanceSummary";
 import IncomeExpense from "./IncomeExpenseForm";
 
 function App(){
